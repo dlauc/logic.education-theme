@@ -33,8 +33,6 @@
           % endif
         </hgroup>
 
-        ## Disable social buttons for non-edX sites
-#        % if not self.theme_enabled():
           <section class="actions">
             <div class="main-cta">
               <a href="#signup-modal" id="signup_action" class="find-courses" rel="leanModal">${_("Sign Up")}</a>
@@ -55,7 +53,6 @@
               </div>
             </div>
           </section>
-#          % endif
       </div>
 
       % if show_homepage_promo_video:
