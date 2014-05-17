@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1f8cc1c-7392-4bc3-9b5f-69856c1afb6a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/theme-footer.html" afterPath="$PROJECT_DIR$/templates/theme-footer.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/index.html" afterPath="$PROJECT_DIR$/templates/index.html" />
     </list>
     <ignored path="edx-theme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -48,7 +48,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="9" selection-start="3628" selection-end="3628" vertical-scroll-proportion="0.6238938" vertical-offset="1537" max-vertical-offset="2074">
+            <state line="35" column="1" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.15925059" vertical-offset="527" max-vertical-offset="2074">
               <folding />
             </state>
           </provider>
@@ -423,7 +423,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="9" selection-start="3628" selection-end="3628" vertical-scroll-proportion="0.6238938" vertical-offset="1537" max-vertical-offset="2074">
+        <state line="35" column="1" selection-start="1086" selection-end="1086" vertical-scroll-proportion="0.15925059" vertical-offset="527" max-vertical-offset="2074">
           <folding />
         </state>
       </provider>
